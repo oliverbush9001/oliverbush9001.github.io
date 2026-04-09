@@ -1,5 +1,12 @@
-# oliverbush9001-github.io
-## Programming Portfolio
+# Programming Portfolio
+## Programming 1
+### Adventure Game
+This is an early verison of a C# Console adventure game, where the player can explore different locations across the world. This was skeleton that would eventually become "Twist of Fate".
+
+<img width="1115" height="628" alt="Screenshot 2026-04-09 132227" src="https://github.com/user-attachments/assets/4dda4c8b-6bff-47c7-8d4d-cb97b3772f11" />
+
+
+## Intro To Code
 ### Composition Creator
 This assignment using Processing to randomly generate a background color and place a public domain image of a comet over a city with a random position and random dimensions. I was very happy with this as taking an image from the internet meant my algorithm would function without having to download an image. Below are a couple example images.
 <img width="937" height="533" alt="Screenshot 2025-12-05 175108" src="https://github.com/user-attachments/assets/2d3f8db9-bd91-4339-b2f7-b0efff00b571" />
