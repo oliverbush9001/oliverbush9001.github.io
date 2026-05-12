@@ -1,16 +1,23 @@
 # Programming Portfolio
 ## Programming 1
 ### Twist of Fate
+<img width="1093" height="468" alt="Screenshot 2026-05-12 121702" src="https://github.com/user-attachments/assets/20bd47e9-d379-46fd-8b78-5c903058fb31" />
+<img width="466" height="551" alt="Screenshot 2026-05-12 121638" src="https://github.com/user-attachments/assets/1fa5eebd-6874-4c7c-9ce1-5533b8de1fbb" />
 
 [itch.io Link](https://oliverbush9001.itch.io/twist-of-fate)
 
 ### Press F to Fish!
 
+<img width="781" height="443" alt="Screenshot 2026-05-12 123342" src="https://github.com/user-attachments/assets/0a89c00f-98f0-45c2-8c0e-66c294fbcb57" />
+<img width="778" height="439" alt="Screenshot 2026-05-12 123403" src="https://github.com/user-attachments/assets/34eb19b6-0c78-413c-9d96-c6ade0f9154b" />
+
 [itch.io Link](https://oliverbush9001.itch.io/press-f-to-fish)
 
-### How many ways can you shuffle a deck of cards? 
+### How many ways can you shuffle a deck of cards?
+<img width="933" height="737" alt="Screenshot 2026-05-12 125052" src="https://github.com/user-attachments/assets/2f50d961-6dc8-4bfa-8171-fc76ba7b6b91" />
 
-###Adopt-a-Fish
+
+### Adopt-a-Fish
 A console app allowing a player to adopt and take care of various fish. While the functionality is limited, the app demonstrates my growing understanding of C# Coding, Object Oridented programing, and UML. 
 
 ### Adventure Game
