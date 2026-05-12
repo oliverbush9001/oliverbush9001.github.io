@@ -6,6 +6,8 @@
 
 ### Press F to Fish!
 
+[itch.io Link](https://oliverbush9001.itch.io/press-f-to-fish)
+
 ### How many ways can you shuffle a deck of cards? 
 
 ###Adopt-a-Fish
