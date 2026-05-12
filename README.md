@@ -1,5 +1,14 @@
 # Programming Portfolio
 ## Programming 1
+### Twist of Fate
+
+### Press F to Fish!
+
+### How many ways can you shuffle a deck of cards? 
+
+###Adopt-a-Fish
+A console app allowing a player to adopt and take care of various fish. While the functionality is limited, the app demonstrates my growing understanding of C# Coding, Object Oridented programing, and UML. 
+
 ### Adventure Game
 This is an early verison of a C# Console adventure game, where the player can explore different locations across the world. This was skeleton that would eventually become "Twist of Fate".
 
