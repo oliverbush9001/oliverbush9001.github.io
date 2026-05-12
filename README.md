@@ -2,6 +2,8 @@
 ## Programming 1
 ### Twist of Fate
 
+[itch.io Link](https://oliverbush9001.itch.io/twist-of-fate)
+
 ### Press F to Fish!
 
 ### How many ways can you shuffle a deck of cards? 
