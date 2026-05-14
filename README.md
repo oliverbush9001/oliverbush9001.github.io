@@ -1,6 +1,7 @@
 # Programming Portfolio
 ## Programming 1
 ### Twist of Fate
+
 Twist of Fate is a brief console game where you play as a indivual who must change their fate by naviagate through Tarot themed puzzles. While not complete, the game is a great showcase of XML implementaion through a C# console application, which is the part I am most proud of. 
 
 <img width="1093" height="468" alt="Screenshot 2026-05-12 121702" src="https://github.com/user-attachments/assets/20bd47e9-d379-46fd-8b78-5c903058fb31" />
@@ -9,6 +10,7 @@ Twist of Fate is a brief console game where you play as a indivual who must chan
 [itch.io Link](https://oliverbush9001.itch.io/twist-of-fate)
 
 ### Press F to Fish!
+
 A simple WPF Application where the play uses WASD to drive a boat around and fish! The center circle was orignally a boat ripple effect, but I personally wanted to try to create an eye that follows the play as the move around to give it a more sinster feel. I hope to improve the mechanics of this, as the base movement system is fun and I personally enjoy a good fishing game. 
 
 <img width="781" height="443" alt="Screenshot 2026-05-12 123342" src="https://github.com/user-attachments/assets/0a89c00f-98f0-45c2-8c0e-66c294fbcb57" />
@@ -17,12 +19,14 @@ A simple WPF Application where the play uses WASD to drive a boat around and fis
 [itch.io Link](https://oliverbush9001.itch.io/press-f-to-fish)
 
 ### How many ways can you shuffle a deck of cards?
+
 A WPF application where the player can attempt to find all the ways to shuffle a deck of cards. See how many you can find! 
 
 <img width="933" height="737" alt="Screenshot 2026-05-12 125052" src="https://github.com/user-attachments/assets/2f50d961-6dc8-4bfa-8171-fc76ba7b6b91" />
 
 
 ### Adopt-a-Fish
+
 A console app allowing a player to adopt and take care of various fish. While the functionality is limited, the app demonstrates my growing understanding of C# Coding, Object Oridented programing, and UML. This was made as one of the first projects of the semester. 
 
 <img width="723" height="537" alt="Screenshot 2026-05-14 044502" src="https://github.com/user-attachments/assets/588ced21-5e0c-4d2d-a5dc-fb468c01415b" />
